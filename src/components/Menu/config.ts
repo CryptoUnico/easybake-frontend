@@ -1,9 +1,14 @@
 import { MenuEntry } from '@pancakeswap-libs/uikit'
 
 const config: MenuEntry[] = [
-  {
+  /* {
     label: 'Home',
     icon: 'HomeIcon',
+    href: '/',
+  }, */
+  {
+    label: 'Farms',
+    icon: 'FarmIcon',
     href: '/',
   },
   {
@@ -19,18 +24,13 @@ const config: MenuEntry[] = [
         href: 'https://exchange.pancakeswap.finance/#/pool',
       },
     ],
-  },
-  {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: '/farms',
-  },
+  }, /*
   {
     label: 'Pools',
     icon: 'PoolIcon',
     href: '/pools',
   },
-  /* {
+  {
     label: 'Lottery',
     icon: 'TicketIcon',
     href: '/lottery',
