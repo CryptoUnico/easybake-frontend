@@ -22,6 +22,8 @@ yarn start
 ```
 
 Don't forget to setup your IDE with `eslint` and `prettier`.
+`npm i -g eslint`
+`eslint --init`
 
 ## Project structure
 
