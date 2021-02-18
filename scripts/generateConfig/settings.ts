@@ -17,7 +17,7 @@ const settings: SettingsObject[] = [
   },
   {
     name: 'farms',
-    url: `${BASE_URL}/farms`,
+    url: `${BASE_URL}/`,
     type: SettingsType.FARM,
   },
 ]
