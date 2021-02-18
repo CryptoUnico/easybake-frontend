@@ -39,7 +39,7 @@ const config: MenuEntry[] = [
     label: 'NFT',
     icon: 'NftIcon',
     href: '/nft',
-  }, */
+  },
   {
     label: 'Teams & Profile',
     icon: 'GroupsIcon',
@@ -54,7 +54,7 @@ const config: MenuEntry[] = [
         href: '/profile',
       },
     ],
-  },
+  }, */
   {
     label: 'Info',
     icon: 'InfoIcon',
@@ -70,18 +70,18 @@ const config: MenuEntry[] = [
       {
         label: 'Pairs',
         href: 'https://pancakeswap.info/pairs',
-      },
+      }, /*
       {
         label: 'Accounts',
         href: 'https://pancakeswap.info/accounts',
-      },
+      }, */
     ],
-  },
+  }, /*
   {
     label: 'IFO',
     icon: 'IfoIcon',
     href: '/ifo',
-  },
+  }, */
   {
     label: 'More',
     icon: 'MoreIcon',
